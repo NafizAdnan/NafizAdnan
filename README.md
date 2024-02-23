@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NafijAdnan
+- 👋 Hi, I’m @NafizAdnan
 - 🌱 I’m currently learning Computer Science & Engineering
-- 📫 How to reach me facebook.com/NafijAdnan
+- 📫 How to reach me nafijadnan@gmail.com
 
 <!---
 NafijAdnan/NafijAdnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
